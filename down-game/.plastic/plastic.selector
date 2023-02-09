@@ -1,0 +1,4 @@
+repository "down-game@wechat_os_qy0_5rqenrlzrpr7kc3j52ozc@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
